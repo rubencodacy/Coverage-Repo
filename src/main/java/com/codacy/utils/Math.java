@@ -16,7 +16,8 @@ public class Math {
             return y - x;
         } else {
             System.out.println("hey");
-            System.out.println("hey");
+            System.out.println("hey2");
+            System.out.println("hey3");
             return x + y;
         }
     }
