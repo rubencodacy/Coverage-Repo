@@ -13,7 +13,6 @@ public class Math {
      */
     public int magicAdd(int x, int y) {
         int unusedVar = 1;
-        int unusedVar2 = 2;
         if (y == magicNumber) {
             System.out.println("hey");
             System.out.println("hey");
