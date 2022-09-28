@@ -12,6 +12,7 @@ public class Math {
      * Adds 2 numbers, unless there is a magic number on the second argument
      */
     public int magicAdd(int x, int y) {
+        int unusedVar = 1;
         if (y == magicNumber) {
             System.out.println("hey");
             System.out.println("hey");
