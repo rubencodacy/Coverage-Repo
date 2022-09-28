@@ -18,4 +18,10 @@ public class MathTest {
         Math math = new Math(4);
         assertEquals(1, math.magicAdd(3, 4));
     }
+
+    @Test
+    public void test() {
+        int x = 1;
+        assertEquals(1, x);
+    }
 }
