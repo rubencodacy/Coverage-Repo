@@ -18,4 +18,10 @@ public class Math2Test {
         Math2 math2 = new Math2(4);
         assertEquals(1, math2.magicAdd(3, 4));
     }
+
+    @Test
+    public void shouldOla() {
+        Math2 math = new Math2(4);
+        assertEquals(true, math.ola());
+    }
 }

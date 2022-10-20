@@ -8,6 +8,11 @@ public class Math2 {
         this.magicNumber = magicNumber;
     }
 
+    public boolean ola() {
+        System.out.println("hey");
+        return true;
+    }
+
     /**
      * Adds 2 numbers, unless there is a magic number on the second argument
      */
