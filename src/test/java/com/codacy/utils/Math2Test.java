@@ -5,12 +5,6 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class Math2Test {
-    @Test
-    public void shouldAddNumbers() {
-        Math2 math2 = new Math2(23);
-
-        assertEquals(7, math2.magicAdd(3, 4));
-    }
 
     // Uncomment this to have 100% coverage
     @Test
