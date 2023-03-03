@@ -14,9 +14,6 @@ public class Math {
     public int magicAdd(int x, int y) {
         what(1, 
         
-        
-        
-        
         2);
         if (y == magicNumber) {
             System.out.println("hey");
