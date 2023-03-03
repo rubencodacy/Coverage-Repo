@@ -89,3 +89,6 @@ WARNING: Unmatched cancel notification for request id 3
 1 error[0m
 2023.03.03 16:56:06 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
 2023.03.03 16:56:07 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
+2023.03.03 16:57:24 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
+2023.03.03 16:57:26 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
+2023.03.03 16:57:35 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/test/java/com/codacy/utils/MathTest.java[0m
