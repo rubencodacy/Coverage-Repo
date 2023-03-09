@@ -7,8 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class MathTest {
     @Test
     public void shouldAddNumbers() {
-        Math math = new Math(23);
-
+        Math math = new Math(4);
         assertEquals(7, math.magicAdd(3, 4));
     }
 
