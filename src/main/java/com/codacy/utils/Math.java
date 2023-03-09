@@ -29,7 +29,7 @@ public class Math {
 
     public void what(int x, int y) {
         System.out.println("hey");
-        return ;
+        return;
     }
 
 }
