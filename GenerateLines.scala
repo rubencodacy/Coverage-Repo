@@ -19,7 +19,7 @@ val file = s"""
     |     */
     |    public int magicAdd(int x, int y) {
     |        if (y == magicNumber) {
-    |            ${addLine(10000)}
+    |            ${addLine(4500)}
     |            return y - x;
     |        } else {
     |            return x + y;

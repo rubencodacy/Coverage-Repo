@@ -521,3 +521,10 @@ import $ivy`// https://mvnrepository.com/artifact/nio/nio
 2023.03.09 15:48:31 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
 2023.03.09 15:48:31 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
 2023.03.09 15:48:31 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
+2023.03.09 16:07:03 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/GenerateLines.scala[0m
+2023.03.09 16:07:19 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/GenerateLines.scala[0m
+2023.03.09 16:07:39 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/Math.java[0m
+2023.03.09 16:07:46 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/GenerateLines.scala[0m
+2023.03.09 16:08:05 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/Math.java[0m
+2023.03.09 16:08:05 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/GenerateLines.scala[0m
+2023.03.09 16:08:10 WARN  no build target for: /Users/rubensantos/Codacy/Repos/rubensantos/Coverage-Repo/src/main/java/com/codacy/utils/Math.java[0m
